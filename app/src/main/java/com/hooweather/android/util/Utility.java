@@ -6,6 +6,7 @@ import com.google.gson.Gson;
 import com.hooweather.android.db.City;
 import com.hooweather.android.db.County;
 import com.hooweather.android.db.Province;
+import com.hooweather.android.gson.Weather;
 
 import org.json.JSONArray;
 import org.json.JSONException;
